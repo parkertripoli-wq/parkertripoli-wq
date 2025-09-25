@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### im parker
+#### im Parker
 
 #### im making sloth web
 
