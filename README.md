@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  
+# 🦥
+
+<div align="left">
+
+  ## Hi there 👋 
 
 # Im Parker and these are my stats!
 
