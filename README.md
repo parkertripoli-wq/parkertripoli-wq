@@ -12,5 +12,9 @@
 
 # Im making sloth web
 
+<a href="https://github.com/parkertripoli-wq/sloth-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parkertripoli-wq&repo=sloth-web&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=30" />
+</a>
+
 ### Want to try sloth web [here](https://github.com/parkertripoli-wq/sloth-web)
 ### Try the search engine [here](https://cse.google.com/cse?cx=666b70a81f11c4eb9#gsc.tab=0&gsc.sort=)
