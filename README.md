@@ -1,10 +1,6 @@
-<div align="center">
-  
-# 🦥
-
 <div align="left">
 
-  ## Hi there 👋 
+  ## Hi there 👋🦥 
 
 # Im Parker and these are my stats!
 
