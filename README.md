@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Parker 🦥
 ### Builder • Developer • Creator of weirdly useful things
-🌐 Portfolio → [parkertrip.github.io](https://parkertrip.github.io/)
+🌐 Portfolio → [parkertrip.github.io](https://psrf.github.io/rdr/?)
 
 ---
 ## 📊 GitHub Stats
@@ -18,7 +18,7 @@
 
 
 ### 🚀 Try it out
-- 🌐 Sloth Web: https://psrf.github.io/?slothweb
+- 🌐 Sloth Web: https://psrf.github.io/rdr/?slothweb
 - 🔎 Search Engine: https://cse.google.com/cse?cx=666b70a81f11c4eb9#gsc.tab=0&gsc.sort=
 ---
 ## ⚡ What I'm Working On
